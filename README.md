@@ -15,7 +15,7 @@ Rules, code of conduct and so on for prof. Hao Sun's lab
   4. Name of the sample or cell line
   5. Supplementary info
  
-- Softwares (e.g.: **code-docker**, **code-np**
+- Softwares (e.g.: **code-docker**, **code-np**)
   1. pls use `code` as the initial of the repository
   2. The targeted sequencing technology, if applicaple
   3. Supplementary info
