@@ -3,6 +3,7 @@ Rules, code of conduct and so on for prof. Hao Sun's lab
 
 - Always backup regularly
 - Commit your changes to git and push in time
+- Make sure adding/updating README.md when making changes
 
 # Repository naming scheme
 
