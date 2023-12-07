@@ -7,13 +7,14 @@ Rules, code of conduct and so on for prof. Hao Sun's lab
 - Make sure adding/updating README.md when making changes
 
 
-# Repository naming scheme
+# Repository
 
 - break the each element of repo name with hypen `-`
 - avoid using capitaized letters
+- Add tag to the repository
 
 
-## Example naming format  
+## Repository naming format  
 - Experiment analysis result (e.g.: **exp-np-dna-lncap-10kb**):
   1. use `exp` as the initial of the repository
   2. sequencing technology, use `ngs` for "**Next Generation Sequencing**", `np` for "**Nanopore**"
@@ -27,7 +28,8 @@ Rules, code of conduct and so on for prof. Hao Sun's lab
   3. Supplementary info
   
 # Pull Request (PR) rules
-- Always check the tickbox in the checklist in PR (if applicaple)
+- Always check the tickbox in the checklist in PR (if exists)
+- Assign the "reviewer", "labels", "projects" 
 
 # Contributor
 - Xing Zhao
