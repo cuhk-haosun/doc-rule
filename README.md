@@ -31,5 +31,12 @@ Rules, code of conduct and so on for prof. Hao Sun's lab
 - Always check the tickbox in the checklist in PR (if exists)
 - Assign the "reviewer", "labels", "projects" 
 
+# Presentation Archiving Rule
+- Submit your presentation files before the lab meeting.
+  1. Pls submit your presentations to https://github.com/cuhk-haosun/doc-lab-record/tree/main/presentation.
+  2. The naming format is "john/20240101-my presentation.pptx".
+  3. Should you have any other files, first create a folder with the same naming scheme and put files in it. e.g. "john/20240101-my presentation/my pic.jpg"
+  4. Create PR
+
 # Contributor
 - Xing Zhao
